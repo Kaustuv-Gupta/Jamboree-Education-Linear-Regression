@@ -1,4 +1,4 @@
-# Kaustuv-Gupta-Jamboree-Education-Linear-Regression
+# Jamboree-Education-Linear-Regression
 
 ## Project Context
 Jamboree has helped thousands of students achieve top scores in exams like GMAT, GRE, and SAT through unique problem-solving methods. Recently, Jamboree launched a feature on their website that estimates the probability of a student getting into an Ivy League college, specifically from an Indian perspective. This project aims to analyze the factors influencing graduate admissions and predict the chances of admission based on various variables.
